@@ -44,7 +44,7 @@ This a simple test for a position for Senior Software Engineer at [disclosed com
 
 ### Built With
 
-* [Python](https://www.python.org))
+* [Python](https://www.python.org)
 
 
 ### Prerequisites
