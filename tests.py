@@ -1,6 +1,6 @@
 """
 Developed by Mohanad Abu-Nayla, Nov-2021.
-This work comes without any warrenty of any type, use it at your own risk.
+This work comes without any warranty of any type, use it at your own risk.
 If you find any thing useful, please send me a message/credit me, but you are not required to do so.
 """
 
