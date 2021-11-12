@@ -1,0 +1,18 @@
+# How to run the project for the first time:
+-$ virtualenv mohanad
+-$ source mohanad/bin/activate
+-$ pip install -r requirements.txt
+-$ python solution.py
+
+# Subsequent Runs:
+-$ source mohanad/bin/activate
+-$ python solution.py
+
+# Running Test
+$ python tests.py
+
+
+# Coverage for tests:
+$ coverage run -m unittest discover
+$ coverage report -m -i (output will be in the terminal)
+$ coverage html (There will be a htmlcov folder, inside it, open index.html file to view the report).
