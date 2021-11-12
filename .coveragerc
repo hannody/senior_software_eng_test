@@ -1,5 +1,5 @@
 [run]
-source = .task/
+source = .
 
 [report]
 omit = solution.py, seed.py, __init__.py, tests.py */opt/, tests.py

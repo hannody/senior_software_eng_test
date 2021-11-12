@@ -27,6 +27,7 @@
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+.idea/
 
 # Gradle
 .idea/**/gradle.xml
@@ -151,7 +152,7 @@ pip-delete-this-directory.txt
 htmlcov/
 .tox/
 .nox/
-task/.coverage
+.coverage
 .coverage.*
 .cache
 nosetests.xml
